@@ -1,0 +1,129 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:lightblue;
+    border-radius:5px;
+    padding-bottom:10px;
+}
+
+header img {
+    padding-top:5px;
+    padding-left:5px;
+}
+header a{
+    text-decoration:none;
+    background-color:white;
+    border-radius:5px;
+    padding:5px;
+}
+header b{
+    color:darkblue;
+}
+main h1{
+    color:lightblue;
+    font-weight:200;
+    border:grey solid 1px;
+    border-radius:5px;
+    padding:3px;
+}
+footer{
+    background-color:lightblue;
+    padding:5px;
+}
+footer #contacts{
+    padding-left:30px;
+}
+footer p{
+    background-color:white;
+    padding:5px;
+}
+ main nav #price {
+    color:darkblue;
+    border:darkblue solid 2px;
+    border-radius:10px;
+    text-decoration: none;
+    padding:2px;
+    padding-left:10px;
+    padding-right:10px;
+}
+main nav {
+    padding:10px;
+}
+main nav #delivery{
+    background-color:darkblue;
+    color:white;
+    border:darkblue solid 2px;
+    border-radius:10px;
+    text-decoration: none;
+    padding:2px;
+    padding-left:10px;
+    padding-right:10px;
+}
+main nav #wholesale{
+    background-color:darkblue;
+    color:white;
+    border:darkblue solid 2px;
+    border-radius:10px;
+    text-decoration: none;
+    padding:2px;
+    padding-left:10px;
+    padding-right:10px;
+}
+main nav #aboutus{
+    background-color:darkblue;
+    color:white;
+    border:darkblue solid 2px;
+    border-radius:10px;
+    text-decoration: none;
+    padding:2px;
+    padding-left:10px;
+    padding-right:10px;
+}
+main .p1{
+    background-color:lightblue;
+    padding:10px;
+    border-radius:10px;
+    border:darkblue solid 1px;
+}
+body {
+    font-size:20px;
+}
+h2{
+    color:darkblue;
+}
+main #img{
+    border:lightblue solid 1px;
+    border-radius:10px;
+    margin:10px;
+    
+}
+main #contacts{
+    background-color:lightblue;
+    color:white;
+    border:lightblue solid 2px;
+    border-radius:10px;
+    text-decoration: none;
+    padding:2px;
+    padding-left:10px;
+    padding-right:10px;
+}
+main #logo{
+    background-color:lightblue;
+    color:white;
+    border:lightblue solid 2px;
+    border-radius:10px;
+    text-decoration: none;
+    padding:2px;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+
+
+
+
+
+
+
+
